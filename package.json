@@ -2,7 +2,7 @@
   "dependencies": {
     "got-scraping": "^3.2.12"
   },
-  "name": "@fillipe143/js-search",
+  "name": "@joaovcml/js-search",
   "version": "1.0.3",
   "main": "src/index.js",
   "types": "src/index.d.ts",
@@ -11,7 +11,7 @@
     "dev": "tsnd --transpile-only --respawn --ignore-watch node_modules src/index.ts",
     "test": "tsnd --transpile-only --ignore-watch node_modules test/index.ts"
   },
-  "author": "Fillipe143",
+  "author": "JoaoVcMl",
   "license": "MIT",
   "description": "",
   "devDependencies": {
